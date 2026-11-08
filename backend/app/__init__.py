@@ -1,0 +1,1 @@
+"""EconoCausal application package."""

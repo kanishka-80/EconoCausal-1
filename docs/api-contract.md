@@ -180,3 +180,4 @@ It connects:
 To prevent misleading claims to stakeholders:
 1. Every evaluation payload returning refutation or diagnostic data must include `"causal_claim_proven": false`.
 2. Estimates must be labelled as **"Estimated Incremental Effects"**, never as "Proven Effects" or "Guaranteed Uplift".
+

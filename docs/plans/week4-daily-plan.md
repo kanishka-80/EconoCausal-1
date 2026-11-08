@@ -219,3 +219,4 @@ Use the team-approved treatment, outcome, covariates, units, and dataset. Do not
 ## Important interpretation note
 
 A DAG represents assumptions, not proof that the assumed causal structure is true. Propensity/overlap diagnostics can reveal weak support or data problems. Refutation checks can challenge an analysis but cannot certify causal validity. Uplift metrics are appropriate only when the design and data support their interpretation. Observational causal estimates remain dependent on assumptions and data quality.
+

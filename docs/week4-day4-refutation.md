@@ -77,3 +77,4 @@ Module: `tests/test_refutation.py`
 
 > [!WARNING]
 > Refutation checks test model sensitivity to specific simulated perturbations. They **cannot** verify unconfoundedness, rule out unmeasured common causes, or prove that an estimated treatment effect is true.
+

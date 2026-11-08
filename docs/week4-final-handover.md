@@ -67,3 +67,4 @@ When presenting the causal evaluation workstream in the integrated project demo:
 1. **Production DoWhy Execution:** Once the production environment includes compatible DoWhy wheel binaries, execute live refuter checks against the fitted CausalForestDML instance.
 2. **Confidence Bounds for Qini Curves:** Add bootstrap confidence bands for cumulative uplift gain curves in post-demo releases.
 3. **Temporal Validation:** When real-world transaction timestamps become available, enforce automated pre/post treatment date filtering at data ingestion.
+

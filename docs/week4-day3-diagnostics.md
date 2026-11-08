@@ -83,3 +83,4 @@ Module: `tests/test_propensity.py`
 ## 6. Caveats & Interpretation
 
 > **Important:** Propensity score overlap and covariate balance diagnostics are descriptive checks of empirical data support. Satisfactory balance or overlap does **not** prove unconfoundedness or guarantee that estimated causal effects are unconfounded.
+

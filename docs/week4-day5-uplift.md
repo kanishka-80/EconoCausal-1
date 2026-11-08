@@ -85,3 +85,4 @@ Modules: `tests/test_uplift_evaluation.py` and `tests/test_uplift_integration.py
 > Cumulative uplift gain is a **descriptive ranking diagnostic** reflecting whether customers ranked higher by the model showed higher empirical outcome differences. 
 > 
 > It depends heavily on unconfoundedness and the assumption that treatment assignment was independent of potential outcomes conditional on measured covariates. A high Qini score does not independently validate that unmeasured confounding is absent.
+

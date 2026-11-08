@@ -157,3 +157,4 @@ pytest tests/ -v
 1. **Synthetic Data Context:** The 20,000-row dataset is synthetic. While suitable for algorithm validation and interface demo, results must not be represented as verified real-world consumer behavior.
 2. **Diagnostic Evidence vs. Causal Proof:** A passing refutation test, an acyclic DAG, or balanced propensity scores demonstrate empirical plausibility under stated assumptions. They **do not prove** that unmeasured confounding is absent.
 3. **Observational Bounds:** In real-world deployments, treatment assignment mechanisms, customer communication timing, and observation windows must be audited before drawing policy conclusions.
+

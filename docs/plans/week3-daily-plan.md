@@ -204,3 +204,4 @@ Do not implement Harsh’s SciPy optimizer or replace Ritik’s primary DML esti
 - [x] Tests cover successful, failed, and unsupported diagnostic cases.
 - [x] End-to-end evaluation steps and metadata are documented.
 - [x] PR includes test evidence, known limitations, and Week 4 follow-up items.
+

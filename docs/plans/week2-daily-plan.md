@@ -198,3 +198,4 @@ If Week 1 decisions remain unresolved, document the blocker and ask the team to 
 - [x] Evaluation outputs align with Ritik’s estimator and Harsh’s API contract.
 - [x] Khushi has clear labels/interpretation notes for the dashboard.
 - [x] PR includes test evidence, reproducible instructions, and known limitations.
+

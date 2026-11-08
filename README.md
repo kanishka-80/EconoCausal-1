@@ -149,6 +149,7 @@ pytest tests/ -v
 - [Week 3 Causal Evaluation Handoff](docs/week3-evaluation-handoff.md)
 - [Week 2 Causal Evaluation Handoff](docs/week2-evaluation-handoff.md)
 - [Causal Assumptions & Identification Specification](docs/causal-assumptions.md)
+- [Shared Causal Evaluation API Contract](docs/api-contract.md) (Cross-team integration with Harsh & Khushi)
 
 ---
 
